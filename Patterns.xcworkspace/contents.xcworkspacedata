@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/nompilo7/Documents/GitHub/DesignPatternsInSwift/Solid_Principles/SingleResponsibilityPrinciple.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/nompilo7/Documents/GitHub/DesignPatternsInSwift/Solid_Principles/OpenClosedPrinciple.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Solid_Principles/LiskovSubstitutionPrinciple.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Solid_Principles/InterfacesegragationPrinciple.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Solid_Principles/DependencyInversionPrinciple.swift">
+   </FileRef>
+</Workspace>
