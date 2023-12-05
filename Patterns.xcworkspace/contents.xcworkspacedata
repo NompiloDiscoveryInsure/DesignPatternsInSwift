@@ -3,7 +3,17 @@
    version = "1.0">
    <Group
       location = "container:"
+      name = "Factories">
+   </Group>
+   <Group
+      location = "container:"
       name = "Builder">
+      <FileRef
+         location = "group:Builder.swift">
+      </FileRef>
+      <FileRef
+         location = "group:FacetedBuilder.swift">
+      </FileRef>
    </Group>
    <Group
       location = "container:"
