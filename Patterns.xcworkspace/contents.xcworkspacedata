@@ -4,6 +4,12 @@
    <Group
       location = "container:"
       name = "Factories">
+      <FileRef
+         location = "group:FactoryMethod.swift">
+      </FileRef>
+      <FileRef
+         location = "group:AbstractFactory.swift">
+      </FileRef>
    </Group>
    <Group
       location = "container:"
