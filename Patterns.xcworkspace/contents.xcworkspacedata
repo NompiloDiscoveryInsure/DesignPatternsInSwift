@@ -3,6 +3,16 @@
    version = "1.0">
    <Group
       location = "container:"
+      name = "Prototype">
+      <FileRef
+         location = "group:CopyConstructors.swift">
+      </FileRef>
+      <FileRef
+         location = "group:ExplicitDeepCopyInterface.swift">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
       name = "Factories">
       <FileRef
          location = "group:FactoryMethod.swift">
