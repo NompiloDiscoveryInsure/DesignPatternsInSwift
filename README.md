@@ -9,4 +9,10 @@ Topics
    - Dependency Inverson
 
 - Builder Pattern
+   - Builder
+   - Faceted builder
+ 
+- Factory pattern
+- Prototype Pattern
+- Singleton Pattern
   
